@@ -15,7 +15,7 @@
 **Kaggle | Stock Price Prediction Challenge | Python | 2026**
 <ul>
 <li style="text-align: justify;">Built end-to-end machine learning models for stock return prediction using Random Forest, XGBoost, CatBoost and LightGBM, including feature engineering, preprocessing, and time-series–aware evaluation.</li>
-<li style="text-align: justify;">Achieved private test MSE of 0.00084, with consistent public/private performance, demonstrating stable generalization on financial time-series data.</li>
+<li style="text-align: justify;">Achieved private test MSE of 0.00076, with consistent public/private performance, demonstrating stable generalization on financial time-series data.</li>
 </ul>  
 [Project Link](https://www.kaggle.com/code/aklimakhanamlima/stock-price-prediction)
 
