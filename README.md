@@ -62,6 +62,14 @@
 </ul>      
 [Project Link](https://github.com/aklimakhanam/SQL_Tableau_Excel/tree/main/US_Debt_Tracker_Dataset)
 
+**NYC School Bus Breakdown & Delay Analysis**  
+**Independent Project | Excel | 2025**
+<ul>
+<li style="text-align: justify;">Analyzed ~282K NYC school bus breakdown and delay records (2019–2023) using Excel PivotTables and PivotCharts to identify leading delay/breakdown reasons, delay-time patterns by bus company and borough, and day-of-week trends.</li>
+<li style="text-align: justify;">Delivered findings and recommendations on the highest-delay carriers to support data-driven fleet maintenance and operations decisions.</li>
+</ul>      
+[Project Link](https://github.com/aklimakhanam/SQL_Tableau_Excel/tree/main/NYC_Public_Transport_Dataset)
+
 ---
 
 ### *Education*
