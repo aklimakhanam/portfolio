@@ -11,16 +11,13 @@
 ---
 
 ### *Projects*
-### WNBA Player Valuation: Predicting Fair Market Salaries
+**WNBA Player Valuation: Predicting Fair Market Salaries**  
 **Erdos Institute Data Science Program | Team Project | Python | 2026**
-
 <ul>
-<li style="text-align: justify;">Built a leakage-proof ML pipeline (Random Forest, GridSearchCV, RMSE ~$44K) predicting WNBA player salaries from on-court performance, using chronological train/test splits and player-identity-grouped cross-validation to prevent leakage.
-</li>
-<li style="text-align: justify;">Scraped and validated data from multiple sources (Basketball Reference, Her Hoop Stats) and led multi-year (2021-2025) exploratory data analysis, including missingness analysis and Isolation Forest outlier detection.
-</li>
-<li style="text-align: justify;">Designed a 3-method consensus feature selection process (SelectKBest, LassoCV, Random Forest importances) yielding 25 features, and conducted stress testing across contract types to isolate structural limitations (e.g., CBA-fixed hardship contracts) from genuine model error.
-
+<li style="text-align: justify;">Built a leakage-proof ML pipeline (Random Forest, GridSearchCV, RMSE ~$44K) predicting WNBA player salaries from on-court performance, using chronological train/test splits and player-identity-grouped cross-validation to prevent leakage.</li>
+<li style="text-align: justify;">Scraped and validated data from multiple sources (Basketball Reference, Her Hoop Stats) and led multi-year (2021-2025) exploratory data analysis, including missingness analysis and Isolation Forest outlier detection.</li>
+<li style="text-align: justify;">Designed a 3-method consensus feature selection process (SelectKBest, LassoCV, Random Forest importances) yielding 25 features, and conducted stress testing across contract types to isolate structural limitations (e.g., CBA-fixed hardship contracts) from genuine model error.</li>
+</ul>  
 [Project Link](https://github.com/Erdos-Projects/summer26-wnba-player-valuation)
 
 **Stock Return Prediction & Quantitative Modeling**  
