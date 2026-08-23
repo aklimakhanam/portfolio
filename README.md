@@ -11,7 +11,7 @@
 ---
 
 ### *Projects*
-**WNBA Player Valuation: Predicting Fair Market Salaries**  
+**WNBA Fair Market Value Engine**  
 **Erdos Institute Data Science Program | Team Project | Python | 2026**
 <ul>
 <li style="text-align: justify;">Built a leakage-proof ML pipeline (Random Forest, GridSearchCV, RMSE ~$44K) predicting WNBA player salaries from on-court performance, using chronological train/test splits and player-identity-grouped cross-validation to prevent leakage.</li>
