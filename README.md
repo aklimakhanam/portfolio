@@ -14,9 +14,9 @@
 **WNBA Fair Market Value Engine**  
 **Erdos Institute Data Science Program | Team Project | Python | 2026**
 <ul>
-<li style="text-align: justify;">Built a leakage-proof ML pipeline (Random Forest, GridSearchCV, RMSE ~$44K) predicting WNBA player salaries from on-court performance, using chronological train/test splits and player-identity-grouped cross-validation to prevent leakage.</li>
-<li style="text-align: justify;">Scraped and validated data from multiple sources (Basketball Reference, Her Hoop Stats) and led multi-year (2021-2025) exploratory data analysis, including missingness analysis and Isolation Forest outlier detection.</li>
-<li style="text-align: justify;">Designed a 3-method consensus feature selection process (SelectKBest, LassoCV, Random Forest importances) yielding 25 features, and conducted stress testing across contract types to isolate structural limitations (e.g., CBA-fixed hardship contracts) from genuine model error.</li>
+<li style="text-align: justify;">Led data acquisition and multi-year exploratory analysis (2021-2025) for a team pipeline predicting WNBA player salaries from performance stats, scraping and reconciling two independent sources (Basketball Reference, Her Hoop Stats).</li>
+<li style="text-align: justify;">Built a validation framework using chronological train/test splits and player-identity grouping, preventing the same player or future information from leaking into training data, so the team's final Random Forest model (RMSE ~$44K) reflects a realistic, trustworthy estimate of performance rather than an inflated one.</li>
+<li style="text-align: justify;">Diagnosed a key limitation through contract-type stress testing: prediction error was low for rookie contracts (~17% MAE, where scale is draft-driven and learnable) but extremely high for hardship contracts (~314% MAE), and showed this reflected a fixed CBA rule rather than a modeling flaw, turning a weak number into a documented structural finding.</li>
 </ul>  
 [Project Link](https://github.com/Erdos-Projects/summer26-wnba-player-valuation)
 
