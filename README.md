@@ -125,9 +125,9 @@
 
 ### *Awards and Honors*
 <ul>
-<li style="text-align: justify;">URA Visiting Scholar Award from Universities Research Association in support of the Ph.D. research at Fermilab (2025).</li>
-<li style="text-align: justify;">Henry Levinstein Fellowship from Syracuse University for the strongest admission application (2022).</li>
-<li style="text-align: justify;">Bangladesh Government and Russian Federal Scholarship for studying Nuclear Engineering at National Research Nuclear University MEPhI, Moscow, Russia (2018).</li>
+<li style="text-align: justify;">URA Visiting Scholar Award ($14800) from Universities Research Association in support of the Ph.D. research at Fermilab (2025).</li>
+<li style="text-align: justify;">Henry Levinstein Fellowship ($500) from Syracuse University for the strongest admission application (2022).</li>
+<li style="text-align: justify;">Bangladesh Government and Russian Federal Scholarship ($10000 plus tuition fee) for studying Nuclear Engineering at National Research Nuclear University MEPhI, Moscow, Russia (2018).</li>
 </ul>
 
 ---
